@@ -1,0 +1,1 @@
+# Training in the use of data structures in javascript
